@@ -17,7 +17,7 @@
       "description": "A sample spatial moodboard for collecting visual references, arranging fragments, and finding unexpected connections. This is placeholder copy for the showcase template.",
       "category": "Creative workspace",
       "icon": "https://www.udacity.com/blog/google-and-udacity-launch-free-gemini-api-course-worldwide/",
-      "screenshots": [],
+      "screenshots": ["https://www.udacity.com/blog/google-and-udacity-launch-free-gemini-api-course-worldwide/"],
       "featured": true,
       "demo": true,
       "platforms": [
