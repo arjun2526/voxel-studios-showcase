@@ -1,0 +1,184 @@
+{
+  "studio": {
+    "name": "VOXEL STUDIOS",
+    "creator": "Arjun Kokane",
+    "catalogNote": "The entries below are demonstration content. Replace them with real app and release information before publishing.",
+    "socials": {
+      "instagram": "https://www.instagram.com/voxel_studio/",
+      "x": "https://x.com/voxel_studio",
+      "discordHandle": "voxel_studio"
+    }
+  },
+  "apps": [
+    {
+      "id": "luma-board",
+      "name": "Luma Board",
+      "tagline": "A calmer canvas for bright ideas.",
+      "description": "A sample spatial moodboard for collecting visual references, arranging fragments, and finding unexpected connections. This is placeholder copy for the showcase template.",
+      "category": "Creative workspace",
+      "icon": "",
+      "screenshots": [],
+      "featured": true,
+      "demo": true,
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "requirements": {
+        "windows": "Windows 10 or later",
+        "macos": "macOS 13 or later"
+      },
+      "releases": [
+        {
+          "version": "0.9.2",
+          "name": "Open canvas preview",
+          "date": "2026-08-12",
+          "status": "Preview",
+          "summary": "Example release entry. Replace this sample with your real release notes.",
+          "changes": [
+            "Example: canvas navigation refinements",
+            "Example: new export panel",
+            "Example: reduced idle memory usage"
+          ],
+          "downloads": [
+            {
+              "platform": "windows",
+              "status": "not-uploaded",
+              "downloadUrl": "",
+              "filename": ""
+            },
+            {
+              "platform": "macos",
+              "status": "not-uploaded",
+              "downloadUrl": "",
+              "filename": ""
+            }
+          ]
+        },
+        {
+          "version": "0.9.0",
+          "name": "First light",
+          "date": "2026-05-04",
+          "status": "Archive",
+          "summary": "Example older release for demonstrating version history.",
+          "changes": [
+            "Example: initial canvas and collections",
+            "Example: local project files"
+          ],
+          "downloads": [
+            {
+              "platform": "windows",
+              "status": "not-uploaded",
+              "downloadUrl": "",
+              "filename": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "signal-noise",
+      "name": "Signal / Noise",
+      "tagline": "Turn the mess into a message.",
+      "description": "A sample desktop utility concept for capturing quick notes and shaping them into a focused daily log. This is placeholder copy for the showcase template.",
+      "category": "Daily utility",
+      "icon": "",
+      "screenshots": [],
+      "featured": true,
+      "demo": true,
+      "platforms": [
+        "windows"
+      ],
+      "requirements": {
+        "windows": "Windows 10 or later"
+      },
+      "releases": [
+        {
+          "version": "1.2.0",
+          "name": "Clear channel",
+          "date": "2026-07-22",
+          "status": "Stable",
+          "summary": "Example stable release. Replace this sample with your real release notes.",
+          "changes": [
+            "Example: pin notes to the desktop",
+            "Example: quick-capture keyboard shortcut",
+            "Example: improved search"
+          ],
+          "downloads": [
+            {
+              "platform": "windows",
+              "status": "not-uploaded",
+              "downloadUrl": "",
+              "filename": ""
+            }
+          ]
+        },
+        {
+          "version": "1.0.0",
+          "name": "First transmission",
+          "date": "2026-02-18",
+          "status": "Archive",
+          "summary": "Example older release for demonstrating version history.",
+          "changes": [
+            "Example: notes, tags, and daily view"
+          ],
+          "downloads": [
+            {
+              "platform": "windows",
+              "status": "not-uploaded",
+              "downloadUrl": "",
+              "filename": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "field-notes",
+      "name": "Field Notes 04",
+      "tagline": "A little order for the in-between.",
+      "description": "A sample lightweight project journal designed for thoughts that happen between the big milestones. This is placeholder copy for the showcase template.",
+      "category": "Project journal",
+      "icon": "",
+      "screenshots": [],
+      "featured": false,
+      "demo": true,
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "requirements": {
+        "windows": "Windows 11",
+        "macos": "macOS 14 or later"
+      },
+      "releases": [
+        {
+          "version": "0.4.1",
+          "name": "Quiet update",
+          "date": "2026-06-03",
+          "status": "Beta",
+          "summary": "Example beta release. Replace this sample with your real release notes.",
+          "changes": [
+            "Example: weekly review view",
+            "Example: compact timeline",
+            "Example: accessible keyboard flow"
+          ],
+          "downloads": [
+            {
+              "platform": "windows",
+              "status": "not-uploaded",
+              "downloadUrl": "",
+              "filename": ""
+            },
+            {
+              "platform": "macos",
+              "status": "not-uploaded",
+              "downloadUrl": "",
+              "filename": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
